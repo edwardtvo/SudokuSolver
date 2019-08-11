@@ -31,4 +31,4 @@ Instructions
 Further developments:
 
 + I didn't solve this problem recursively, but if anyone has a recursive solution to solving the Sudoku,
-  please share it with me by making a pull request on the "Recursive" Branch. Thank you!
+  please share it with me. Thank you!
